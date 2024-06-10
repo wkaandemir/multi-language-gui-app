@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Sample Application"
+msgstr "Sample Application"
+
+msgid "Hello, world!"
+msgstr "Hello, world!"
+
+msgid "Please enter your name:"
+msgstr "Please enter your name:"
+
+msgid "Greet"
+msgstr "Greet"
+
+msgid "Hello, {}!"
+msgstr "Hello, {}!"

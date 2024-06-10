@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Sample Application"
+msgstr "Örnek Uygulama"
+
+msgid "Hello, world!"
+msgstr "Merhaba, dünya!"
+
+msgid "Please enter your name:"
+msgstr "Lütfen adınızı girin:"
+
+msgid "Greet"
+msgstr "Selamla"
+
+msgid "Hello, {}!"
+msgstr "Merhaba, {}!"
